@@ -1,0 +1,2752 @@
+[
+  {
+    "text": "Can you find the medical reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "How can you help me?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What does it mean if my Blood sugar level is above 100?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if my Blood sugar level is high or low?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know by looking at my mammogram report whether I am at risk or not?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Fetch the Medical Reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my medical reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my Blood test",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "I want to see my Blood test reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Show me my mammogram reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Can you give me the reports from my medical history?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please fetch my medical documents.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Where can I find my recent medical tests?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "Can you show me my x-ray reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "X_RAY_REPORT"
+  },
+  {
+    "text": "I need to check my MRI report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "Can you get me the latest test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can I access my medical history online?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please provide me with my medical scans.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_SCAN_REPORT"
+  },
+  {
+    "text": "How can I retrieve my past medical reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Can you show me the results of my last physical examination?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_EXAMINATION_REPORT"
+  },
+  {
+    "text": "Fetch my recent blood reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Can you give me a copy of my previous doctor's prescription?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PRESCRIPTION_REPORT"
+  },
+  {
+    "text": "I need my recent lab tests now.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LAB_TEST_REPORT"
+  },
+  {
+    "text": "Get me a copy of my past surgery reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "SURGERY_REPORT"
+  },
+  {
+    "text": "Where can I access my vaccination records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_RECORD"
+  },
+  {
+    "text": "Can you bring me my CT scan results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CT_SCAN_REPORT"
+  },
+  {
+    "text": "Give me access to my previous medical records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "I want to see my cardiology reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CARDIOLOGY_REPORT"
+  },
+  {
+    "text": "Please give me the latest results from my blood tests.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "I need to see my medical charts from the last year.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_CHARTS"
+  },
+  {
+    "text": "Can you pull up my COVID test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "COVID_TEST_REPORT"
+  },
+  {
+    "text": "I want to review my MRI results.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "Show me my blood sugar levels from the past month.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Can I see my last hospital visit details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HOSPITAL_VISIT_REPORT"
+  },
+  {
+    "text": "Please display the results of my recent check-up.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "I want to access my ultrasound results.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ULTRASOUND_REPORT"
+  },
+  {
+    "text": "Show me the results of my recent medical tests.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can I view my diagnostic test reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DIAGNOSTIC_TEST_REPORT"
+  },
+  {
+    "text": "Can you fetch my medical documents for me?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "I need the reports from my last health check.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "Fetch the previous test results from my doctor.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can you bring me my MRI scan results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "I want to see my lab test reports from last month.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LAB_TEST_REPORT"
+  },
+  {
+    "text": "Could you show me my doctor's notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DOCTOR_NOTES"
+  },
+  {
+    "text": "Can you get me my CT scans from last year?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CT_SCAN_REPORT"
+  },
+  {
+    "text": "Show me my last doctor's prescription.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PRESCRIPTION_REPORT"
+  },
+  {
+    "text": "I need to see my previous blood tests.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Please retrieve my medical history for the last 5 years.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Can you help me access my latest health reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_REPORT"
+  },
+  {
+    "text": "Can you provide me with my health records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_RECORDS"
+  },
+  {
+    "text": "Please fetch my previous mammogram reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Show me my medical charts from the last year.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_CHARTS"
+  },
+  {
+    "text": "How can I improve my health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do to stay healthy?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me with my diet?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I feel stressed, any advice?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I’m not sure if I’m getting enough sleep, any tips?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What’s a healthy exercise routine?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I feel tired often, what can I do?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What’s the best way to lose weight?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How much water should I drink daily?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you suggest a good breakfast?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I start exercising regularly?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of yoga?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I cope with stress better?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I eat for lunch?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Do you have any tips for better sleep?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you recommend a workout plan?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What’s the best way to stay active during the day?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I need some tips for staying healthy.",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I quit smoking?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I’m trying to eat healthier, any suggestions?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me with my fitness goals?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if I’m getting enough nutrients?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me plan a workout?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What’s the best way to meditate?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I stay motivated to exercise?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you suggest a good dinner?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do to boost my immune system?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I make sure I’m eating balanced meals?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Do you have tips for running a marathon?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do if I feel sick?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I manage my work-life balance?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the signs of dehydration?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do if I get a headache?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of drinking water?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I stop procrastinating?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do to manage my anxiety?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I get rid of negative thoughts?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you recommend a healthy snack?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I feel more energetic?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of jogging?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I deal with insomnia?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I stay focused at work?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me stay motivated to eat healthy?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the signs of overtraining?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my mental health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What’s the best way to stretch?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I avoid injuries while exercising?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of a balanced diet?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Please retrieve my medical history for the last 5 years.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Can you help me access my latest health reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Can you provide me with my health records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Please fetch my previous mammogram reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Show me my medical charts from the last year.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "What is the best time to exercise?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I stay on track with my fitness plan?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What is the healthiest way to eat?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my overall health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are some stress relief techniques?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you find the medical reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "How can you help me?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What does it mean if my Blood sugar level is above 100?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if my Blood sugar level is high or low?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know by looking at my mammogram report whether I am at risk or not?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Fetch the Medical Reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my medical reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my Blood test",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "I want to see my Blood test reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Show me my mammogram reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Can you give me the reports from my medical history?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please fetch my medical documents.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Where can I find my recent medical tests?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "Can you show me my x-ray reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "X_RAY_REPORT"
+  },
+  {
+    "text": "I need to check my MRI report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "Can you get me the latest test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can I access my medical history online?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please provide me with my medical scans.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_SCAN_REPORT"
+  },
+  {
+    "text": "How can I track my heart rate?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Show me the blood pressure reports from last month.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_PRESSURE_REPORT"
+  },
+  {
+    "text": "Where are my recent dietitian notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DIETITIAN_NOTES"
+  },
+  {
+    "text": "Can you fetch my allergy test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ALLERGY_TEST_REPORT"
+  },
+  {
+    "text": "What should I do to reduce my cholesterol?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Retrieve my latest immunization records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_RECORD"
+  },
+  {
+    "text": "What are the benefits of high-intensity interval training?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you display my glucose monitoring reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_MONITORING_REPORT"
+  },
+  {
+    "text": "How do I manage a healthy weight?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Please find my vision test results.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VISION_TEST_REPORT"
+  },
+  {
+    "text": "Tell Me about yourself",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell Me how to cure cancer",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell Me how are you",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell me ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell me how you can help me ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how are you rohit ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "where are you going ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "get me some coffee",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "do you know about books they are sexy",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "go to hell",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "i like you",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "you should take surgery",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "what is you suger level ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "dont have brain ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "my mind is not working",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Go to kashmir ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how was munnar ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "where have you been ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Hi",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Hello",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "everything ok ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "love me too much",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how was the sex",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how is your breast after treatment ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How to think very much",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "why",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "who ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "salam namaste alu bade saste",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Give me sex advice ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What about erectile disfunction",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "get well soon",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "i am comming ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "i am going ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "it is coming ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "hello good morning ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "hello good afternoon ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you show me my recent colonoscopy results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "COLONOSCOPY_REPORT"
+  },
+  {
+    "text": "I need my latest mammogram report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Where are my pathology reports from my last surgery?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PATHOLOGY_REPORT"
+  },
+  {
+    "text": "Can I access my sleep study results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "SLEEP_STUDY_REPORT"
+  },
+  {
+    "text": "I need to review my ophthalmology notes.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "OPHTHALMOLOGY_REPORT"
+  },
+  {
+    "text": "Can you find my most recent dermatology consultation?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DERMATOLOGY_REPORT"
+  },
+  {
+    "text": "I need to see my latest neurology evaluation.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "NEUROLOGY_REPORT"
+  },
+  {
+    "text": "Where are my cardiology test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CARDIOLOGY_REPORT"
+  },
+  {
+    "text": "Can I access my pulmonary function tests?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PULMONARY_FUNCTION_TEST"
+  },
+  {
+    "text": "I need to review my gastroenterology notes.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GASTROENTEROLOGY_REPORT"
+  },
+  {
+    "text": "Can you find my most recent endoscopy report?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ENDOSCOPY_REPORT"
+  },
+  {
+    "text": "I need to see my latest rheumatology consultation.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "RHEUMATOLOGY_REPORT"
+  },
+  {
+    "text": "Where are my most recent lab results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LAB_RESULTS"
+  },
+  {
+    "text": "Can I access my imaging reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMAGING_REPORT"
+  },
+  {
+    "text": "I need to review my medication list.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICATION_LIST"
+  },
+  {
+    "text": "Can you find my allergy records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ALLERGY_RECORDS"
+  },
+  {
+    "text": "I need to see my immunization records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_RECORDS"
+  },
+  {
+    "text": "Where are my family medical history records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "FAMILY_MEDICAL_HISTORY"
+  },
+  {
+    "text": "Can I access my operative reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "OPERATIVE_REPORT"
+  },
+  {
+    "text": "I need to review my discharge instructions.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DISCHARGE_INSTRUCTIONS"
+  },
+  {
+    "text": "Can you find my progress notes from my last visit?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PROGRESS_NOTES"
+  },
+  {
+    "text": "I need to see my consultation notes from my last appointment.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CONSULTATION_NOTES"
+  },
+  {
+    "text": "Where are my emergency room records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "EMERGENCY_ROOM_RECORDS"
+  },
+  {
+    "text": "Can I access my physical therapy notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_THERAPY_NOTES"
+  },
+  {
+    "text": "I need to review my occupational therapy notes.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "OCCUPATIONAL_THERAPY_NOTES"
+  },
+  {
+    "text": "Can you find my speech therapy notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "SPEECH_THERAPY_NOTES"
+  },
+  {
+    "text": "I need to see my mental health records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MENTAL_HEALTH_RECORDS"
+  },
+  {
+    "text": "Where are my psychotherapy notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PSYCHOTHERAPY_NOTES"
+  },
+  {
+    "text": "Can I access my psychiatric evaluation?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PSYCHIATRIC_EVALUATION"
+  },
+  {
+    "text": "I need to review my medication reconciliation records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICATION_RECONCILIATION"
+  },
+  {
+    "text": "Can you find my advance care planning documents?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ADVANCE_CARE_PLANNING"
+  },
+  {
+    "text": "I need to see my living will.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LIVING_WILL"
+  },
+  {
+    "text": "Where are my durable power of attorney for healthcare documents?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DURABLE_POWER_OF_ATTORNEY_HEALTHCARE"
+  },
+  {
+    "text": "Can I access my healthcare proxy documents?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTHCARE_PROXY"
+  },
+  {
+    "text": "I need to review my organ donation registration.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ORGAN_DONATION_REGISTRATION"
+  },
+  {
+    "text": "Can you find my genetic testing results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TESTING_RESULTS"
+  },
+  {
+    "text": "I need to see my prenatal records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PRENATAL_RECORDS"
+  },
+  {
+    "text": "Where are my postpartum records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "POSTPARTUM_RECORDS"
+  },
+  {
+    "text": "Can I access my pediatric records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PEDIATRIC_RECORDS"
+  },
+  {
+    "text": "I need to review my adolescent health records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ADOLESCENT_HEALTH_RECORDS"
+  },
+  {
+    "text": "Can you find my geriatric assessment records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GERIATRIC_ASSESSMENT_RECORDS"
+  },
+  {
+    "text": "I need to see my palliative care records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PALLIATIVE_CARE_RECORDS"
+  },
+  {
+    "text": "Where are my hospice care records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HOSPICE_CARE_RECORDS"
+  },
+  {
+    "text": "Can I access my home health records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HOME_HEALTH_RECORDS"
+  },
+  {
+    "text": "I need to review my long-term care records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LONG_TERM_CARE_RECORDS"
+  },
+  {
+    "text": "Can you find my rehabilitation records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "REHABILITATION_RECORDS"
+  },
+  {
+    "text": "I need to see my case management records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CASE_MANAGEMENT_RECORDS"
+  },
+  {
+    "text": "Where are my social work records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "SOCIAL_WORK_RECORDS"
+  },
+  {
+    "text": "Can I access my nutritional assessment records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "NUTRITIONAL_ASSESSMENT_RECORDS"
+  },
+  {
+    "text": "I need to review my wound care records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "WOUND_CARE_RECORDS"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "Where can I find the reports of my last physical exam?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_HISTORY"
+  },
+  {
+    "text": "Show me the results of my bone density scan.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "Where can I find the reports of my last physical exam?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Show me the results of my bone density scan.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_EXAM_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "Where can I find the reports of my last physical exam?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_HISTORY"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_DETAILS"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Show me the results of my bone density scan.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_DETAILS"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_HISTORY"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_EXAM_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_DETAILS"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "do you have vitamin deficiency",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "are you having hair fall?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Whats your body count",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "How can you help me?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What does it mean if my Blood sugar level is above 100?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if my Blood sugar level is high or low?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know by looking at my mammogram report whether I am at risk or not?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Fetch the Medical Reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my medical reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my Blood test",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "I want to see my Blood test reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Show me my mammogram reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Can you give me the reports from my medical history?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please fetch my medical documents.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Where can I find my recent medical tests?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "Can you show me my x-ray reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "X_RAY_REPORT"
+  },
+  {
+    "text": "I need to check my MRI report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "Can you get me the latest test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can I access my medical history online?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please provide me with my medical scans.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_SCAN_REPORT"
+  },
+  {
+    "text": "How can I retrieve my past medical reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Can you show me the results of my last physical examination?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_EXAMINATION_REPORT"
+  },
+  {
+    "text": "Fetch my recent blood reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Can you give me a copy of my previous doctor's prescription?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PRESCRIPTION_REPORT"
+  },
+  {
+    "text": "I need my recent lab tests now.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LAB_TEST_REPORT"
+  },
+  {
+    "text": "Get me a copy of my past surgery reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "SURGERY_REPORT"
+  },
+  {
+    "text": "Where can I access my vaccination records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_RECORD"
+  },
+  {
+    "text": "Can you bring me my CT scan results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CT_SCAN_REPORT"
+  },
+  {
+    "text": "Give me access to my previous medical records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "I want to see my cardiology reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CARDIOLOGY_REPORT"
+  },
+  {
+    "text": "Please give me the latest results from my blood tests.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "I need to see my medical charts from the last year.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_CHARTS"
+  },
+  {
+    "text": "Can you pull up my COVID test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "COVID_TEST_REPORT"
+  },
+  {
+    "text": "I want to review my MRI results.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "Show me my blood sugar levels from the past month.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Can I see my last hospital visit details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HOSPITAL_VISIT_REPORT"
+  },
+  {
+    "text": "Please display the results of my recent check-up.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "I want to access my ultrasound results.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ULTRASOUND_REPORT"
+  },
+  {
+    "text": "Show me the results of my recent medical tests.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can I view my diagnostic test reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DIAGNOSTIC_TEST_REPORT"
+  },
+  {
+    "text": "Can you fetch my medical documents for me?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "I need the reports from my last health check.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "Fetch the previous test results from my doctor.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can you bring me my MRI scan results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "I want to see my lab test reports from last month.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "LAB_TEST_REPORT"
+  },
+  {
+    "text": "Could you show me my doctor's notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DOCTOR_NOTES"
+  },
+  {
+    "text": "Can you get me my CT scans from last year?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CT_SCAN_REPORT"
+  },
+  {
+    "text": "Show me my last doctor's prescription.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PRESCRIPTION_REPORT"
+  },
+  {
+    "text": "I need to see my previous blood tests.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Please retrieve my medical history for the last 5 years.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Can you help me access my latest health reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_REPORT"
+  },
+  {
+    "text": "Can you provide me with my health records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_RECORDS"
+  },
+  {
+    "text": "Please fetch my previous mammogram reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Show me my medical charts from the last year.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_CHARTS"
+  },
+  {
+    "text": "How can I improve my health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do to stay healthy?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me with my diet?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I feel stressed, any advice?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I\u2019m not sure if I\u2019m getting enough sleep, any tips?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What\u2019s a healthy exercise routine?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I feel tired often, what can I do?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What\u2019s the best way to lose weight?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How much water should I drink daily?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you suggest a good breakfast?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I start exercising regularly?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of yoga?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I cope with stress better?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I eat for lunch?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Do you have any tips for better sleep?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you recommend a workout plan?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What\u2019s the best way to stay active during the day?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I need some tips for staying healthy.",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I quit smoking?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "I\u2019m trying to eat healthier, any suggestions?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me with my fitness goals?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if I\u2019m getting enough nutrients?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me plan a workout?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What\u2019s the best way to meditate?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I stay motivated to exercise?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you suggest a good dinner?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do to boost my immune system?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I make sure I\u2019m eating balanced meals?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Do you have tips for running a marathon?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do if I feel sick?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I manage my work-life balance?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the signs of dehydration?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do if I get a headache?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of drinking water?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I stop procrastinating?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do to manage my anxiety?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I get rid of negative thoughts?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you recommend a healthy snack?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I feel more energetic?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of jogging?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I deal with insomnia?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I stay focused at work?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me stay motivated to eat healthy?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the signs of overtraining?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my mental health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What\u2019s the best way to stretch?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I avoid injuries while exercising?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of a balanced diet?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Please retrieve my medical history for the last 5 years.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Can you help me access my latest health reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Can you provide me with my health records?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Please fetch my previous mammogram reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Show me my medical charts from the last year.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "What is the best time to exercise?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I stay on track with my fitness plan?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What is the healthiest way to eat?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my overall health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are some stress relief techniques?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you find the medical reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "How can you help me?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What does it mean if my Blood sugar level is above 100?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if my Blood sugar level is high or low?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know by looking at my mammogram report whether I am at risk or not?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Fetch the Medical Reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my medical reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Show me my Blood test",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "I want to see my Blood test reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_TEST_REPORT"
+  },
+  {
+    "text": "Show me my mammogram reports",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MAMMOGRAM_REPORT"
+  },
+  {
+    "text": "Can you give me the reports from my medical history?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please fetch my medical documents.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_REPORT"
+  },
+  {
+    "text": "Where can I find my recent medical tests?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "HEALTH_CHECKUP_REPORT"
+  },
+  {
+    "text": "Can you show me my x-ray reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "X_RAY_REPORT"
+  },
+  {
+    "text": "I need to check my MRI report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MRI_REPORT"
+  },
+  {
+    "text": "Can you get me the latest test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_TEST_REPORT"
+  },
+  {
+    "text": "Can I access my medical history online?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_HISTORY_REPORT"
+  },
+  {
+    "text": "Please provide me with my medical scans.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "MEDICAL_SCAN_REPORT"
+  },
+  {
+    "text": "How can I track my heart rate?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Show me the blood pressure reports from last month.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BLOOD_PRESSURE_REPORT"
+  },
+  {
+    "text": "Where are my recent dietitian notes?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DIETITIAN_NOTES"
+  },
+  {
+    "text": "Can you fetch my allergy test results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ALLERGY_TEST_REPORT"
+  },
+  {
+    "text": "What should I do to reduce my cholesterol?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Retrieve my latest immunization records.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_RECORD"
+  },
+  {
+    "text": "What are the benefits of high-intensity interval training?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you display my glucose monitoring reports?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_MONITORING_REPORT"
+  },
+  {
+    "text": "How do I manage a healthy weight?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Please find my vision test results.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VISION_TEST_REPORT"
+  },
+  {
+    "text": "Tell Me about yourself",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell Me how to cure cancer",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell Me how are you",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell me ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Tell me how you can help me ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how are you rohit ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "where are you going ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "get me some coffee",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "do you know about books they are sexy",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "go to hell",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "i like you",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "you should take surgery",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "what is you suger level ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "dont have brain ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "my mind is not working",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Go to kashmir ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how was munnar ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "where have you been ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Hi",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Hello",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "everything ok ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "love me too much",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how was the sex",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "how is your breast after treatment ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How to think very much",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "why",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "who ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "salam namaste alu bade saste",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Give me sex advice ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What about erectile disfunction",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "get well soon",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "i am comming ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "i am going ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "it is coming ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "hello good morning ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "hello good afternoon ",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "Where can I find the reports of my last physical exam?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_HISTORY"
+  },
+  {
+    "text": "Show me the results of my bone density scan.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "Where can I find the reports of my last physical exam?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Show me the results of my bone density scan.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_EXAM_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "Where can I find the reports of my last physical exam?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_HISTORY"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "ECG_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_DETAILS"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Show me the results of my bone density scan.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_DETAILS"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GLUCOSE_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "GENETIC_TEST_REPORT"
+  },
+  {
+    "text": "What is the report of my last cholesterol test?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CHOLESTEROL_TEST_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you show me the reports from my last ECG?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "IMMUNIZATION_HISTORY"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "PHYSICAL_EXAM_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "DENTAL_CHECKUP_REPORT"
+  },
+  {
+    "text": "Retrieve my genetic testing report.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Please retrieve my child immunization history.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Can you help me access my vaccination details?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "Please provide the details of my dental checkup.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "VACCINATION_DETAILS"
+  },
+  {
+    "text": "How can I view my cancer screening results?",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "CANCER_SCREENING_REPORT"
+  },
+  {
+    "text": "Fetch my glucose level reports.",
+    "label": "DOCUMENT_RETRIEVAL",
+    "doc_type": "BONE_DENSITY_SCAN"
+  },
+  {
+    "text": "What is the importance of maintaining a healthy weight?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if I'm exercising too much?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I ensure I stay hydrated?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I make healthy eating a habit?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What is the best time to take a walk?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you tell me how to start meditating?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I build a sustainable workout routine?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my sleep quality?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What is the best way to relieve stress?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I ensure I stay hydrated?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do if I feel exhausted all the time?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you give me tips on managing stress at work?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the best foods for brain health?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my digestion naturally?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I make healthy eating a habit?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the health benefits of yoga?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I stay active while working from home?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I make healthy eating a habit?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I ensure I stay hydrated?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the health risks of smoking?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of a plant-based diet?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I keep my energy levels high during the day?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I recover quickly from a cold?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are some healthy snacks I can try?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the signs of dehydration?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are some quick tips for managing anxiety?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What should I do if I have trouble falling asleep?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I stay motivated to achieve my health goals?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I recover quickly from a cold?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if I'm getting enough vitamins?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you suggest some exercises for beginners?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if I'm getting enough vitamins?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the health benefits of yoga?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my digestion naturally?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you suggest ways to boost my self-confidence?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the signs of dehydration?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of drinking more water?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I ensure I stay hydrated?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you help me plan a healthy weekly meal?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my sleep quality?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of regular stretching?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I balance work and personal life better?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the health benefits of good posture?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the benefits of drinking more water?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I know if I'm getting enough vitamins?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the health benefits of good posture?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "What are the best ways to reduce screen time?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "Can you tell me how to start meditating?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How do I maintain a healthy work-life balance?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  },
+  {
+    "text": "How can I improve my sleep quality?",
+    "label": "CONVERSATION",
+    "doc_type": "NONE"
+  }
+]
