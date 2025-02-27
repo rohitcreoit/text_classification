@@ -2748,5 +2748,130 @@
     "text": "How can I improve my sleep quality?",
     "label": "CONVERSATION",
     "doc_type": "NONE"
-  }
+  },
+    {
+        "text": "WOULD YOU READ THIS DOCUMENT FOR ME",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "WHERE IS MY DOCUMENT",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "READ MY REPORT",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "READ MY CT SCAN",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "I WANT TO UNDERSTAND MY BLOOD REPORT",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "CAN YOU SHARE MY BLOOD SAMPLE",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "I WNAT TO RESUBMIT MY DOCUMENTS FOR MY TREATMENT",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "CAN I READ YOUR REPORT FOR YOU IF YOU ARE NOT ABLE TO",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "GOOD FOR YOUR CT SCAN",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "HELLO HOW ARE YOU AND CT SCAN AND DOCUMENT",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "BLOOD REPORT IS EASY TO READ",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "REPORT AND CT SCAN AND DOCUMENTS",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+    {
+        "text": "GOOD TO SE MY X-RAY REPORT",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    },
+   {
+        "text": "go to help desk",
+        "label": "CONVERSATION",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "HOW TO GIVE INSTRUCTION ABOUT CT SCAN",
+        "label": "CONVERSATION",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "WHERE IS MY CT SCAN",
+        "label": "DOCUMENT_RETRIEVAL",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "WHERE IS MY REPORT",
+        "label": "DOCUMENT_RETRIEVAL",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "READ MY REPOR T",
+        "label": "CONVERSATION",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "GET ME MY CT SCAN",
+        "label": "DOCUMENT_RETRIEVAL",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "I WANT MY CANCER DOCUMENTS",
+        "label": "DOCUMENT_RETRIEVAL",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "GOOD FOR NOTHING AND BLOOD REPORT",
+        "label": "CONVERSATION",
+        "doc_type": "UNKNOWN"
+    },
+     {
+        "text": "WHERE IS MY CT SCAN",
+        "label": "DOCUMENT_RETRIEVAL",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "WILL YOU GIVE MY REPORT TO ANYONE",
+        "label": "CONVERSATION",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "IT IS A BAD PRACTICE TO GET X-RAY",
+        "label": "CONVERSATION",
+        "doc_type": "UNKNOWN"
+    },
+    {
+        "text": "CAN YOU TELL ME I HAVE MY CT SCAN ALREADY",
+        "label": "CONVERSATION",
+        "doc_type": "NONE"
+    }
 ]
